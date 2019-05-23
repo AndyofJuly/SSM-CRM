@@ -7,7 +7,7 @@ Web服务器：Tomcat8.0
 Java开发包：JDK8
 开发工具：Eclipse Java EE IDE for Web Developers
 数据库：MySQL 5.5
-浏览器：火狐或IE8.0以上版本< /br >
+浏览器：火狐或IE8.0以上版本<br>
 
  ![Image text](imag/1.png)
 
@@ -21,7 +21,7 @@ BOOT客户管理系统分为几个层次？
 
 业务逻辑层（Service层）：该层由若干Service接口和实现类组成。在本系统中，业务逻辑层的接口统一使用Service结尾，其实现类名称统一在接口名后加Impl。该层主要用于实现系统的业务逻辑。
 
-Web表现层：该层主要包括Spring MVC中的Controller类和JSP页面。Controller类主要负责拦截用户请求，并调用业务逻辑层中相应组件的业务逻辑方法来处理用户请求，然后将相应的结果返回给JSP页面。< br >
+Web表现层：该层主要包括Spring MVC中的Controller类和JSP页面。Controller类主要负责拦截用户请求，并调用业务逻辑层中相应组件的业务逻辑方法来处理用户请求，然后将相应的结果返回给JSP页面。<br>
 
 
  ![Image text](imag/2.png)
