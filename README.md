@@ -7,7 +7,7 @@ Web服务器：Tomcat8.0
 Java开发包：JDK8
 开发工具：Eclipse Java EE IDE for Web Developers
 数据库：MySQL 5.5
-浏览器：火狐或IE8.0以上版本< br >
+浏览器：火狐或IE8.0以上版本< /br >
 
  ![Image text](imag/1.png)
 
