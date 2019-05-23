@@ -72,5 +72,9 @@ Web表现层：该层主要包括Spring MVC中的Controller类和JSP页面。Con
 
 #七、说明
 这是一个入门级的SSM框架运用，实现了基本的客户管理系统功能，比较适合初级入门学习的朋友
-
-
+本仓库文件说明：
+BOOT客户管理系统.ppt详细介绍了系统的实现
+boot-crm是项目源代码，含sql文件，使用前请先将其导入自己的数据库中
+有任何问题可在
+https://andyofjuly.github.io/
+个人博客留言
