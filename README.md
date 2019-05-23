@@ -9,6 +9,6 @@ Java开发包：JDK8
 数据库：MySQL 5.5
 浏览器：火狐或IE8.0以上版本
 
-https://github.com/AndyofJuly/SSM-CRM/raw/master/imag/1.png
+ ![Image text](img/1.png)
 
 
