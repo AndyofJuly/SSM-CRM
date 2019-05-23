@@ -36,39 +36,39 @@ Web表现层：该层主要包括Spring MVC中的Controller类和JSP页面。Con
 ***
 
 # 四、用户登录模块设计
-代码设计过程如下：< br >
- ![Image text](imag/3.png)< br >
+代码设计过程如下：<br>
+ ![Image text](imag/3.png)<br>
 另外加一个拦截器：
 只有已登录用户的请求才能够通过，而对于未登录用户的请求，系统会将请求转发到登录页面，并提示用户登录。
 
 ***
 
 # 五、客户管理模块设计
-查询客户：BOOT客户管理系统的查询功能需要实现的功能包括按条件查询、查询所有客户信息，以及分页查询< br >
+查询客户：BOOT客户管理系统的查询功能需要实现的功能包括按条件查询、查询所有客户信息，以及分页查询<br>
 
  ![Image text](imag/7.png)
  
  ***
  
-添加客户：新建< br >
+添加客户：新建<br>
 
  ![Image text](imag/8.png)
  
  ***
  
  
-修改客户：修改信息< br >
+修改客户：修改信息<br>
 
 ***
 
-删除客户：弹出确认框< br >
+删除客户：弹出确认框<br>
 
 ***
 
 # 六、最后效果展示
- ![Image text](imag/5.png)< br >
+ ![Image text](imag/5.png)<br>
  ***
- ![Image text](imag/6.png)< br >
+ ![Image text](imag/6.png)<br>
 
 ***
 
